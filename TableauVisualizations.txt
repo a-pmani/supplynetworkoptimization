@@ -1,0 +1,8 @@
+1. Baseline model:
+https://us-west-2b.online.tableau.com/#/site/networkdiagram/workbooks/279208?:origin=
+card_share_link
+2. Optimized baseline model:
+https://us-west-2b.online.tableau.com/#/site/networkdiagram/workbooks/279211?:origin=
+card_share_link
+3. Optimized number of Warehouses:
+https://us-west-2b.online.tableau.com/#/site/networkdiagram/workbooks/279212?:origin= card_share_link
